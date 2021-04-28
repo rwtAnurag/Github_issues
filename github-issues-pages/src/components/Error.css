@@ -1,0 +1,22 @@
+ .error_div{
+    height: 300px;
+    margin-left: 16%;
+    margin-right: 16%;
+    border: 2px solid #dbdee2;
+}
+.error_div1{
+    height:50px;
+    margin-left: 16%;
+    margin-right: 16%;
+    border: 2px solid #dbdee2;
+    background-color: #f2f5fa;
+    border-bottom: none;
+}
+.btn-group{
+    margin-left: 16%;
+    margin-right: 16%;
+}
+.form-control1{
+    background-color: #f2f5fa;
+    width:770px;
+}

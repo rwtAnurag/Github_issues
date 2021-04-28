@@ -1,0 +1,56 @@
+.UpperDiv{
+    height: 55px;
+    width:100%;
+    background-color:#f0f3f7;
+    
+}
+.lowerDiv{
+    height: 55px;
+    width:100%;
+    background-color:#f0f3f7;
+    border-bottom: 1px solid #dbdee2;
+}
+.issues{
+    border-bottom: 2px solid rgb(243, 37, 37);
+}
+.repo{
+    color:#3864b0;
+    font-size:19px;
+}
+.repo2{
+    
+    font-size:19px;
+}
+h4{
+    color: #3864b0;
+}
+.guide{
+    margin-left:10%;
+    margin-right: 10%;
+    height: 120px;
+    border: 2px solid #dbdee2;
+}
+.filter{
+    margin-left:10%;
+   
+}
+.searchissues{
+    width:54%;
+    background-color: #f2f5fa;
+}
+
+.issue__detail{
+    font-size: 13px;
+}
+.g_issues{
+    
+    margin-left:10%;
+    margin-right: 10%;
+    border: 1px solid #dbdee2;
+}
+.g_issues2{
+    background-color: #f2f5fa;
+    margin-left:10%;
+    margin-right: 10%;
+    border: 1px solid #dbdee2;
+}

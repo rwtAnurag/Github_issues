@@ -1,0 +1,21 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 65px;
+    display:block;
+     width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  input{
+    color: white;
+    font-size:16px;
+    border:1px solid rgb(165, 161, 161);
+    background: #282c34
+  }
+  span{
+    font-size:16px;
+    margin: 13px;
+  }
